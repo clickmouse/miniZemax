@@ -1,0 +1,40 @@
+f` = 99.7197
+L_H` = -2.88613
+L_P` = -4.20044
+Light d
+ideal_y` = -6.45632(Kw = 1)
+ideal_y` = -4.51942(Kw = 0.7)
+ideal_L` = 121.596
+actual_L` = 121.319(Kn = 1)
+actual_L` = 121.434(Kn = 0.7)
+actual_y` = -6.45581(Kn = 1)
+actual_y` = -4.51925(Kn = 0.7)
+coma = 0.0466625(Kn = 1, Kw = 1)
+coma = 0.0327238(Kn = 1, Kw = 0.7)
+coma = 0.0214353(Kn = 0.7, Kw = 1)
+coma = 0.0150369(Kn = 0.7, Kw = 0.7)
+xt` = -0.748517
+xs` = -0.35072
+x` = -0.397798
+Spherical_aberration = -0.276527(Kn = 1)
+Spherical_aberration = -0.161748(Kn = 0.7)
+absolute_distortion = -0.00050737(Kw = 1)
+absolute_distortion = -0.000174036(Kw = 0.7)
+relative_distortion  = 7.85851e-05(Kw = 1)
+relative_distortion = 3.85084e-05(Kw = 0.7)
+Light c
+ideal_L` = 121.692
+actual_L` = 121.373(Kn = 1)
+actual_L` = 121.51(Kn = 0.7)
+actual_y` = -6.45598(Kn = 1)
+actual_y` = -4.51937(Kn = 0.7)
+Light f
+ideal_L` = 121.623
+actual_L` = 121.458(Kn = 1)
+actual_L` = 121.513(Kn = 0.7)
+actual_y` = -6.45561(Kn = 1)
+actual_y` = -4.51911(Kn = 0.7)
+Position_Chromatic_Aberration = 0.0852556(Kw = 1)
+Position_Chromatic_Aberration = 0.0035223(Kw = 0.7)
+Lateral_Chromatic_Aberration  = 0.000366279(Kw = 1)
+Lateral_Chromatic_Aberration  = 0.000258062(Kw = 0.7)
